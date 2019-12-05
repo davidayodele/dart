@@ -1,12 +1,13 @@
 {
 	"folder_history":
 	[
+		"/F/F/drive_r/pitt/infsci2150/Java Project",
 		"/F/F/drive_r/10/LL",
 		"/F/F/drive_r/10/LL/config",
 		"/F/F/drive_r/10/dart"
 	],
 	"last_version": 3211,
-	"last_window_id": 6,
+	"last_window_id": 7,
 	"log_indexing": false,
 	"settings":
 	{
@@ -80,7 +81,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"FQDN_OR_IP"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -88,7 +88,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"leaflab.us"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -102,7 +101,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -146,7 +145,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 115.0,
+			"side_bar_width": 209.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -438,11 +437,279 @@
 			"buffers":
 			[
 				{
+					"file": "/F/F/drive_r/10/dart/prac1.dart",
+					"settings":
+					{
+						"buffer_size": 2531,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAAnHjQnIs/e8/LUxTBa36Mbar4Pr2ggrW187MFGu8DIg5Hp1gJNNZftn3DxPhZzn9Qa1KI5f+m5XZmDunW/mufe8QDSchSat3EEOgNjMkK6k2Z7RaAycTSV1f+zhaS46pRVOWI0sIKPcmO51DvrGS7UxqZWWuRXIDV3xp8kFakLOfultg== MainUser@MainUser-PC\n",
+					"file": "/F/F/drive_r/10/dart/ecc-privkey.pub",
+					"file_size": 274,
+					"file_write_time": 132195040860000000,
+					"settings":
+					{
+						"buffer_size": 274,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"syntax",
+						"Set Syntax: Dart"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"dart",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/F/drive_r/10/dart"
+			],
+			"file_history":
+			[
+				"/F/F/drive_r/10/dart/Sublime Text Build 3211/Data/Packages/User/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\F\\drive_r\\10\\dart"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/F/drive_r/10/dart/prac1.dart",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2531,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2261,
+										2261
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Dart/Dart.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1086.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/F/drive_r/10/dart/ecc-privkey.pub",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 274,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										274
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,639,186,100,1090",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
 					"file": "/F/F/drive_r/10/LL/wp_notes_enfold.txt",
 					"settings":
 					{
-						"buffer_size": 437,
-						"encoding": "UTF-8",
+						"buffer_size": 487,
 						"line_ending": "Windows",
 						"name": "Enfold: https://drive.google.com/open?id=1LXKYRijG"
 					}
@@ -546,7 +813,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 437,
+								"buffer_size": 487,
 								"regions":
 								{
 								},
@@ -608,7 +875,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,565,26,26,930",
+			"position": "0,0,2,-32000,-32000,-1,-1,565,26,26,930",
 			"project": "",
 			"replace":
 			{
@@ -668,12 +935,12 @@
 			"buffers":
 			[
 				{
-					"file": "/F/F/drive_r/10/dart/test.dart",
+					"file": "/F/F/drive_r/pitt/infsci2150/Java Project/Final Paper for Programming Project.docx",
 					"settings":
 					{
-						"buffer_size": 2531,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"buffer_size": 3242315,
+						"encoding": "Hexadecimal",
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -721,7 +988,8 @@
 			},
 			"expanded_folders":
 			[
-				"/F/F/drive_r/10/dart"
+				"/F/F/drive_r/pitt/infsci2150/Java Project",
+				"/F/F/drive_r/pitt/infsci2150/Java Project/Cipher"
 			],
 			"file_history":
 			[
@@ -729,7 +997,7 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
@@ -760,7 +1028,7 @@
 			"folders":
 			[
 				{
-					"path": "F:\\F\\drive_r\\10\\dart"
+					"path": "F:\\F\\drive_r\\pitt\\infsci2150\\Java Project"
 				}
 			],
 			"groups":
@@ -771,29 +1039,27 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/F/F/drive_r/10/dart/test.dart",
-							"semi_transient": false,
+							"file": "/F/F/drive_r/pitt/infsci2150/Java Project/Final Paper for Programming Project.docx",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 2531,
+								"buffer_size": 3242315,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2528,
-										2528
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Dart/Dart.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1086.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -804,11 +1070,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 22.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"layout":
 			{
@@ -838,11 +1104,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,639,186,100,1090",
+			"position": "0,0,1,-1,-1,-1,-1,669,130,130,1034",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -880,12 +1146,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 115.0,
+			"side_bar_width": 209.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 7,
 			"workspace_name": ""
 		}
 	],
