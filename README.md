@@ -1,5 +1,5 @@
-# Dart Programming Tutorial for Beginners 
-Learn Dart Programming, its basics and Fundamentals from scratch.
+# Dart Programming Quick Overview 
+Learn Dart Programming
 
 ## Topics to be covered
 0. Overview
